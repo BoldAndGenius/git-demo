@@ -1,3 +1,3 @@
-print("hey")
-print("bye")
-print("good morning")
+marks = int(input("Enter your marks: "))
+if marks >= 85:
+    print("Distinction!")
